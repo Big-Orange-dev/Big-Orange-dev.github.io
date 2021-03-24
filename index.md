@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Big Orange
 
 You can use the [editor on GitHub](https://github.com/Big-Orange-dev/Big-Orange-dev.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
